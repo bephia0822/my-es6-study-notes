@@ -23,7 +23,7 @@ for (const income of incomes) {
 let fullName = "Dylan Coding God Israel";
 
 
-for (const char of fullName) {
+for (const char of fullName) {   //char好像是他亂掰的
     console.log(char);
 }
 //D
